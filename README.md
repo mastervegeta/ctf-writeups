@@ -19,7 +19,7 @@ answer teaches the answer, and nothing else.
 | Challenge | Category | Points | Difficulty | Tags |
 | --- | --- | --- | --- | --- |
 | [Timeline 1](writeups/cylabacademy/forensics/timeline-1/) | forensics | — | medium | `sleuthkit`, `mactime`, `timeline`, `disk-image`, `base64` |
-| [Timeline 0](writeups/cylabacademy/forensics/timeline-0/) | forensics | — | — | `sleuthkit`, `mactime`, `timeline`, `timestomping`, `base64`, `disk-image` |
+| [Timeline 0](writeups/cylabacademy/forensics/timeline-0/) | forensics | — | medium | `sleuthkit`, `mactime`, `timeline`, `timestomping`, `base64`, `disk-image` |
 
 <!-- INDEX:END -->
 

@@ -3,7 +3,7 @@ title: Timeline 0
 event: cylabacademy
 category: forensics
 points:
-difficulty:
+difficulty: medium
 date: 2026-08-18
 tags: [sleuthkit, mactime, timeline, timestomping, base64, disk-image]
 status: published
