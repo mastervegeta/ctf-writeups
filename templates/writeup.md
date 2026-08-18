@@ -9,10 +9,13 @@ tags: []
 status: draft
 ---
 
+<!-- Target ~400 words. Commands, real output and dead ends earn their space;
+     explanation mostly doesn't. If a paragraph restates something already said
+     in the TL;DR or a step, cut it. -->
+
 # __TITLE__
 
 > **Event:** __EVENT__ · **Category:** __CATEGORY__
-> **Flag:** `<redacted — see note below>`
 
 ## Challenge
 
@@ -63,10 +66,10 @@ picoCTF{...}
 
 ## Learn more
 
-_The background that would have let you skip the dead ends. Name the concept,
-say why it applies here, and link one good reference. Verify anything factual
-you state — dates, flag semantics, tool defaults — before publishing._
+_A paragraph or two, not an essay. The background that would have let you skip
+the dead ends, and one link. Verify anything factual you state — dates, flag
+semantics, tool defaults — before publishing._
 
 ## Tools
 
-- `tool` — what you used it for
+`tool`, `tool`

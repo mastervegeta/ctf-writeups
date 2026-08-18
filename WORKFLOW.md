@@ -42,10 +42,13 @@ The structure that matters:
   **Tried:** / **Why it failed:**.
 - **Learn more** — the background that would have let you skip the dead ends.
 
+**Aim for ~400 words.** Commands, real output and dead ends earn their space;
+explanation mostly doesn't. Cut anything that restates a point already made, and
+keep "Learn more" to a paragraph or two.
+
 That placement of dead ends is the one structural decision worth defending. A
-"things that didn't work" pile at the bottom is never read, and even when it is,
-the reader can't connect an entry back to the moment it mattered. Attached to
-the step, a dead end reads as a fork in the path, which is what it was.
+pile at the bottom is never read, and the reader can't connect an entry back to
+the moment it mattered.
 
 **Verify anything factual in "Learn more" before publishing.** Historical dates,
 tool defaults, flag semantics, what an algorithm actually guarantees — that
