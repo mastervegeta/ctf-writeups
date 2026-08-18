@@ -12,7 +12,13 @@ answer teaches the answer, and nothing else.
 
 <!-- INDEX:START -->
 
-_No published writeups yet. Scaffold one with `./scripts/new-challenge.sh <event> <category> "<Title>"`._
+**1 writeup** across 1 event.
+
+### CyLab Academy
+
+| Challenge | Category | Points | Difficulty | Tags |
+| --- | --- | --- | --- | --- |
+| [Timeline 1](writeups/cylabacademy/forensics/timeline-1/) | forensics | — | — | `sleuthkit`, `mactime`, `timeline`, `disk-image`, `base64` |
 
 <!-- INDEX:END -->
 
