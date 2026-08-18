@@ -12,7 +12,7 @@ answer teaches the answer, and nothing else.
 
 <!-- INDEX:START -->
 
-**2 writeups** across 1 event.
+**3 writeups** across 1 event.
 
 ### CyLab Academy
 
@@ -20,6 +20,7 @@ answer teaches the answer, and nothing else.
 | --- | --- | --- | --- | --- |
 | [Timeline 1](writeups/cylabacademy/forensics/timeline-1/) | forensics | — | medium | `sleuthkit`, `mactime`, `timeline`, `disk-image`, `base64` |
 | [Timeline 0](writeups/cylabacademy/forensics/timeline-0/) | forensics | — | medium | `sleuthkit`, `mactime`, `timeline`, `timestomping`, `base64`, `disk-image` |
+| [Rogue Tower](writeups/cylabacademy/forensics/rogue-tower/) | forensics | — | medium | `wireshark`, `pcap`, `xor`, `known-plaintext`, `base64`, `imsi`, `python` |
 
 <!-- INDEX:END -->
 
