@@ -3,7 +3,7 @@ title: Timeline 1
 event: cylabacademy
 category: forensics
 points:
-difficulty:
+difficulty: medium
 date: 2026-08-18
 tags: [sleuthkit, mactime, timeline, disk-image, base64]
 status: published
@@ -107,8 +107,11 @@ on every forensics challenge.
 `.ash_history` — the shell history for `ash`, BusyBox's shell, which suggests a
 small embedded or Alpine-style system.
 
+`icat` reads by inode number, not by path, so look the inode up first:
+
 ```bash
-icat partition4.img <inode of .ash_history>
+fls -r partition4.img | grep ash_history   # the leading number is the inode
+icat partition4.img <that inode>
 ```
 
 ```
@@ -187,10 +190,11 @@ filter as a shortlist to read, not an answer.
 icat partition4.img 32716
 ```
 
-It contained a base64 string. Decoding it gives the flag body:
+It contained a base64 string. Rather than copying that anywhere, pipe `icat`
+straight into the decoder:
 
 ```bash
-echo '<base64 string>' | base64 -d
+icat partition4.img 32716 | base64 -d
 ```
 
 ```

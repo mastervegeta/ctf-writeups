@@ -18,7 +18,7 @@ answer teaches the answer, and nothing else.
 
 | Challenge | Category | Points | Difficulty | Tags |
 | --- | --- | --- | --- | --- |
-| [Timeline 1](writeups/cylabacademy/forensics/timeline-1/) | forensics | — | — | `sleuthkit`, `mactime`, `timeline`, `disk-image`, `base64` |
+| [Timeline 1](writeups/cylabacademy/forensics/timeline-1/) | forensics | — | medium | `sleuthkit`, `mactime`, `timeline`, `disk-image`, `base64` |
 
 <!-- INDEX:END -->
 
