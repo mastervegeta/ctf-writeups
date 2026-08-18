@@ -1,0 +1,32 @@
+# Scratch notes are the input to a writeup, not part of it.
+notes.md
+**/notes.md
+# ...but the template it gets copied from has to be tracked.
+!templates/notes.md
+
+# Cracking artifacts. The potfile one matters more than it looks: hashcat
+# accumulates cracked plaintexts across every session on the machine, so it can
+# carry material from work unrelated to the challenge.
+*.potfile
+hashcat.potfile
+*.restore
+*.hc22000
+*.hccapx
+h.txt
+
+# Wordlists: large, and not mine to redistribute.
+wordlists/
+rockyou*
+*.lst
+*.dict
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# macOS + editors
+.DS_Store
+.vscode/
+*.swp
