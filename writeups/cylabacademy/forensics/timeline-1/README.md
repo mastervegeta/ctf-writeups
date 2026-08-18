@@ -252,6 +252,8 @@ practice challenges is free.
 
 - [Sleuth Kit — mactime](https://www.sleuthkit.org/sleuthkit/man/mactime.html)
 - [Sleuth Kit — fls](https://www.sleuthkit.org/sleuthkit/man/fls.html)
+- [Timeline 0](../timeline-0/) — same image family, but the `macb` filter used
+  here stops discriminating and you have to sort by age instead
 
 ## Tools
 

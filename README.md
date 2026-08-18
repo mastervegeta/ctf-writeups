@@ -12,13 +12,14 @@ answer teaches the answer, and nothing else.
 
 <!-- INDEX:START -->
 
-**1 writeup** across 1 event.
+**2 writeups** across 1 event.
 
 ### CyLab Academy
 
 | Challenge | Category | Points | Difficulty | Tags |
 | --- | --- | --- | --- | --- |
 | [Timeline 1](writeups/cylabacademy/forensics/timeline-1/) | forensics | — | medium | `sleuthkit`, `mactime`, `timeline`, `disk-image`, `base64` |
+| [Timeline 0](writeups/cylabacademy/forensics/timeline-0/) | forensics | — | — | `sleuthkit`, `mactime`, `timeline`, `timestomping`, `base64`, `disk-image` |
 
 <!-- INDEX:END -->
 
