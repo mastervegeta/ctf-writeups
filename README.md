@@ -12,7 +12,7 @@ answer teaches the answer, and nothing else.
 
 <!-- INDEX:START -->
 
-**10 writeups** across 1 event.
+**11 writeups** across 1 event.
 
 ### CyLab Academy
 
@@ -24,6 +24,7 @@ answer teaches the answer, and nothing else.
 | [Printer Shares 1](writeups/cylabacademy/general-skills/printer-shares-1/) | general-skills | — | easy | `smb`, `smbclient`, `samba`, `enumeration`, `guest-access` |
 | [Piece by Piece](writeups/cylabacademy/general-skills/piece-by-piece/) | general-skills | — | easy | `ssh`, `cat`, `unzip`, `file-reassembly` |
 | [Nice Netcat](writeups/cylabacademy/general-skills/nice-netcat/) | general-skills | — | easy | `netcat`, `ascii`, `decimal`, `python` |
+| [Magikarp Ground Mission](writeups/cylabacademy/general-skills/magikarp-ground-mission/) | general-skills | — | easy | `ssh`, `filesystem`, `navigation` |
 | [Bytemancy 0](writeups/cylabacademy/general-skills/bytemancy-0/) | general-skills | — | easy | `ascii`, `encoding`, `python`, `source-review` |
 | [Timeline 1](writeups/cylabacademy/forensics/timeline-1/) | forensics | — | medium | `sleuthkit`, `mactime`, `timeline`, `disk-image`, `base64` |
 | [Timeline 0](writeups/cylabacademy/forensics/timeline-0/) | forensics | — | medium | `sleuthkit`, `mactime`, `timeline`, `timestomping`, `base64`, `disk-image` |
