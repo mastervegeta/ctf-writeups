@@ -12,12 +12,13 @@ answer teaches the answer, and nothing else.
 
 <!-- INDEX:START -->
 
-**3 writeups** across 1 event.
+**4 writeups** across 1 event.
 
 ### CyLab Academy
 
 | Challenge | Category | Points | Difficulty | Tags |
 | --- | --- | --- | --- | --- |
+| [Printer Shares 1](writeups/cylabacademy/network/printer-shares-1/) | network | — | — | `smb`, `smbclient`, `samba`, `enumeration`, `guest-access` |
 | [Timeline 1](writeups/cylabacademy/forensics/timeline-1/) | forensics | — | medium | `sleuthkit`, `mactime`, `timeline`, `disk-image`, `base64` |
 | [Timeline 0](writeups/cylabacademy/forensics/timeline-0/) | forensics | — | medium | `sleuthkit`, `mactime`, `timeline`, `timestomping`, `base64`, `disk-image` |
 | [Rogue Tower](writeups/cylabacademy/forensics/rogue-tower/) | forensics | — | medium | `wireshark`, `pcap`, `xor`, `known-plaintext`, `base64`, `imsi`, `python` |
