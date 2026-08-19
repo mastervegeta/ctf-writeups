@@ -1,9 +1,9 @@
 ---
 title: Printer Shares 1
 event: cylabacademy
-category: network
+category: general-skills
 points:
-difficulty:
+difficulty: easy
 date: 2026-08-19
 tags: [smb, smbclient, samba, enumeration, guest-access]
 status: published
@@ -11,7 +11,7 @@ status: published
 
 # Printer Shares 1
 
-> **Event:** cylabacademy · **Category:** network
+> **Event:** cylabacademy · **Category:** general-skills
 
 ## Challenge
 
