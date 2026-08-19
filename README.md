@@ -12,13 +12,14 @@ answer teaches the answer, and nothing else.
 
 <!-- INDEX:START -->
 
-**7 writeups** across 1 event.
+**8 writeups** across 1 event.
 
 ### CyLab Academy
 
 | Challenge | Category | Points | Difficulty | Tags |
 | --- | --- | --- | --- | --- |
 | [ping-cmd](writeups/cylabacademy/general-skills/ping-cmd/) | general-skills | — | easy | `command-injection`, `netcat`, `shell-metacharacters` |
+| [SUDO MAKE ME A SANDWICH](writeups/cylabacademy/general-skills/sudo-make-me-a-sandwich/) | general-skills | — | easy | `privilege-escalation`, `sudo`, `emacs`, `gtfobins` |
 | [Printer Shares 1](writeups/cylabacademy/general-skills/printer-shares-1/) | general-skills | — | easy | `smb`, `smbclient`, `samba`, `enumeration`, `guest-access` |
 | [Piece by Piece](writeups/cylabacademy/general-skills/piece-by-piece/) | general-skills | — | easy | `ssh`, `cat`, `unzip`, `file-reassembly` |
 | [Bytemancy 0](writeups/cylabacademy/general-skills/bytemancy-0/) | general-skills | — | easy | `ascii`, `encoding`, `python`, `source-review` |
