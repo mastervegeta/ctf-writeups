@@ -8,6 +8,8 @@ The approaches that failed are kept in place, next to the step where they failed
 because those are the parts worth reading — a solution that goes straight to the
 answer teaches the answer, and nothing else.
 
+I mainly focus on doing the CTF:s, give a run down of what succeeded and what failed and instruct claude to add to the list of writeups, so I can focus on doing as many as possible!
+
 ## Index
 
 <!-- INDEX:START -->
