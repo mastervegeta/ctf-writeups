@@ -12,7 +12,7 @@ answer teaches the answer, and nothing else.
 
 <!-- INDEX:START -->
 
-**15 writeups** across 1 event.
+**16 writeups** across 1 event.
 
 ### CyLab Academy
 
@@ -21,6 +21,7 @@ answer teaches the answer, and nothing else.
 | [ping-cmd](writeups/cylabacademy/general-skills/ping-cmd/) | general-skills | — | easy | `command-injection`, `netcat`, `shell-metacharacters` |
 | [convertme.py](writeups/cylabacademy/general-skills/convertme-py/) | general-skills | — | easy | `python`, `binary`, `number-bases` |
 | [Static ain't always noise](writeups/cylabacademy/general-skills/static-ain-t-always-noise/) | general-skills | — | easy | `strings`, `objdump`, `elf`, `binary`, `reverse-engineering` |
+| [St3g0](writeups/cylabacademy/forensics/st3g0/) | forensics | — | medium | `steganography`, `zsteg`, `lsb`, `png`, `encoding` |
 | [SUDO MAKE ME A SANDWICH](writeups/cylabacademy/general-skills/sudo-make-me-a-sandwich/) | general-skills | — | easy | `privilege-escalation`, `sudo`, `emacs`, `gtfobins` |
 | [Printer Shares 1](writeups/cylabacademy/general-skills/printer-shares-1/) | general-skills | — | easy | `smb`, `smbclient`, `samba`, `enumeration`, `guest-access` |
 | [Plumbing](writeups/cylabacademy/general-skills/plumbing/) | general-skills | — | medium | `netcat`, `grep`, `pipes`, `redirection` |
