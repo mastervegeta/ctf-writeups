@@ -12,7 +12,7 @@ answer teaches the answer, and nothing else.
 
 <!-- INDEX:START -->
 
-**11 writeups** across 1 event.
+**12 writeups** across 1 event.
 
 ### CyLab Academy
 
@@ -20,6 +20,7 @@ answer teaches the answer, and nothing else.
 | --- | --- | --- | --- | --- |
 | [ping-cmd](writeups/cylabacademy/general-skills/ping-cmd/) | general-skills | — | easy | `command-injection`, `netcat`, `shell-metacharacters` |
 | [convertme.py](writeups/cylabacademy/general-skills/convertme-py/) | general-skills | — | easy | `python`, `binary`, `number-bases` |
+| [Static ain't always noise](writeups/cylabacademy/general-skills/static-ain-t-always-noise/) | general-skills | — | easy | `strings`, `objdump`, `elf`, `binary`, `reverse-engineering` |
 | [SUDO MAKE ME A SANDWICH](writeups/cylabacademy/general-skills/sudo-make-me-a-sandwich/) | general-skills | — | easy | `privilege-escalation`, `sudo`, `emacs`, `gtfobins` |
 | [Printer Shares 1](writeups/cylabacademy/general-skills/printer-shares-1/) | general-skills | — | easy | `smb`, `smbclient`, `samba`, `enumeration`, `guest-access` |
 | [Piece by Piece](writeups/cylabacademy/general-skills/piece-by-piece/) | general-skills | — | easy | `ssh`, `cat`, `unzip`, `file-reassembly` |
