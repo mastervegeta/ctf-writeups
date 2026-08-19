@@ -12,7 +12,7 @@ answer teaches the answer, and nothing else.
 
 <!-- INDEX:START -->
 
-**18 writeups** across 1 event.
+**19 writeups** across 1 event.
 
 ### CyLab Academy
 
@@ -22,6 +22,7 @@ answer teaches the answer, and nothing else.
 | [convertme.py](writeups/cylabacademy/general-skills/convertme-py/) | general-skills | — | easy | `python`, `binary`, `number-bases` |
 | [Wireshark doo dooo do doo...](writeups/cylabacademy/forensics/wireshark-doo-dooo-do-doo/) | forensics | — | medium | `wireshark`, `pcap`, `protocol-hierarchy`, `rot13`, `http` |
 | [What Lies Within](writeups/cylabacademy/forensics/what-lies-within/) | forensics | — | medium | `steganography`, `zsteg`, `lsb`, `png` |
+| [Trivial Flag Transfer Protocol](writeups/cylabacademy/forensics/trivial-flag-transfer-protocol/) | forensics | — | medium | `wireshark`, `tftp`, `steghide`, `deb`, `caesar`, `steganography` |
 | [Static ain't always noise](writeups/cylabacademy/general-skills/static-ain-t-always-noise/) | general-skills | — | easy | `strings`, `objdump`, `elf`, `binary`, `reverse-engineering` |
 | [St3g0](writeups/cylabacademy/forensics/st3g0/) | forensics | — | medium | `steganography`, `zsteg`, `lsb`, `png`, `encoding` |
 | [SUDO MAKE ME A SANDWICH](writeups/cylabacademy/general-skills/sudo-make-me-a-sandwich/) | general-skills | — | easy | `privilege-escalation`, `sudo`, `emacs`, `gtfobins` |
