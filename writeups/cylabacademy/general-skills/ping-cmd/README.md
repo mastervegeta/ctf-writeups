@@ -1,5 +1,5 @@
 ---
-title: Ping
+title: ping-cmd
 event: cylabacademy
 category: general-skills
 points:
@@ -9,7 +9,7 @@ tags: [command-injection, netcat, shell-metacharacters]
 status: published
 ---
 
-# Ping
+# ping-cmd
 
 > **Event:** cylabacademy · **Category:** general-skills
 
