@@ -12,7 +12,7 @@ answer teaches the answer, and nothing else.
 
 <!-- INDEX:START -->
 
-**12 writeups** across 1 event.
+**13 writeups** across 1 event.
 
 ### CyLab Academy
 
@@ -23,6 +23,7 @@ answer teaches the answer, and nothing else.
 | [Static ain't always noise](writeups/cylabacademy/general-skills/static-ain-t-always-noise/) | general-skills | — | easy | `strings`, `objdump`, `elf`, `binary`, `reverse-engineering` |
 | [SUDO MAKE ME A SANDWICH](writeups/cylabacademy/general-skills/sudo-make-me-a-sandwich/) | general-skills | — | easy | `privilege-escalation`, `sudo`, `emacs`, `gtfobins` |
 | [Printer Shares 1](writeups/cylabacademy/general-skills/printer-shares-1/) | general-skills | — | easy | `smb`, `smbclient`, `samba`, `enumeration`, `guest-access` |
+| [Plumbing](writeups/cylabacademy/general-skills/plumbing/) | general-skills | — | medium | `netcat`, `grep`, `pipes`, `redirection` |
 | [Piece by Piece](writeups/cylabacademy/general-skills/piece-by-piece/) | general-skills | — | easy | `ssh`, `cat`, `unzip`, `file-reassembly` |
 | [Nice Netcat](writeups/cylabacademy/general-skills/nice-netcat/) | general-skills | — | easy | `netcat`, `ascii`, `decimal`, `python` |
 | [Magikarp Ground Mission](writeups/cylabacademy/general-skills/magikarp-ground-mission/) | general-skills | — | easy | `ssh`, `filesystem`, `navigation` |
