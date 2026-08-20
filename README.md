@@ -16,12 +16,13 @@ My profile(s): https://learn.cylabacademy.org/users/xxtentacion
 
 <!-- INDEX:START -->
 
-**19 writeups** across 1 event.
+**20 writeups** across 1 event.
 
 ### CyLab Academy
 
 | Challenge | Category | Points | Difficulty | Tags |
 | --- | --- | --- | --- | --- |
+| [New Ceasar](writeups/cylabacademy/cryptography/new-ceasar/) | cryptography | — | medium | `python`, `ciphers`, `caesar`, `brute-force`, `encoding` |
 | [ping-cmd](writeups/cylabacademy/general-skills/ping-cmd/) | general-skills | — | easy | `command-injection`, `netcat`, `shell-metacharacters` |
 | [convertme.py](writeups/cylabacademy/general-skills/convertme-py/) | general-skills | — | easy | `python`, `binary`, `number-bases` |
 | [Wireshark doo dooo do doo...](writeups/cylabacademy/forensics/wireshark-doo-dooo-do-doo/) | forensics | — | medium | `wireshark`, `pcap`, `protocol-hierarchy`, `rot13`, `http` |
