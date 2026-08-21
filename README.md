@@ -16,12 +16,13 @@ My profile(s): https://learn.cylabacademy.org/users/xxtentacion
 
 <!-- INDEX:START -->
 
-**20 writeups** across 1 event.
+**21 writeups** across 1 event.
 
 ### CyLab Academy
 
 | Challenge | Category | Points | Difficulty | Tags |
 | --- | --- | --- | --- | --- |
+| [RSA Oracle](writeups/cylabacademy/cryptography/rsa-oracle/) | cryptography | — | medium | `rsa`, `malleability`, `chosen-ciphertext`, `python`, `openssl` |
 | [New Ceasar](writeups/cylabacademy/cryptography/new-ceasar/) | cryptography | — | medium | `python`, `ciphers`, `caesar`, `brute-force`, `encoding` |
 | [ping-cmd](writeups/cylabacademy/general-skills/ping-cmd/) | general-skills | — | easy | `command-injection`, `netcat`, `shell-metacharacters` |
 | [convertme.py](writeups/cylabacademy/general-skills/convertme-py/) | general-skills | — | easy | `python`, `binary`, `number-bases` |
