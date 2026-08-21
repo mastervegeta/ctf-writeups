@@ -16,12 +16,13 @@ My profile(s): https://learn.cylabacademy.org/users/xxtentacion
 
 <!-- INDEX:START -->
 
-**21 writeups** across 1 event.
+**22 writeups** across 1 event.
 
 ### CyLab Academy
 
 | Challenge | Category | Points | Difficulty | Tags |
 | --- | --- | --- | --- | --- |
+| [Power Analysis: Warmup](writeups/cylabacademy/cryptography/power-analysis-warmup/) | cryptography | — | hard | `side-channel`, `aes`, `sbox`, `pwntools`, `python` |
 | [RSA Oracle](writeups/cylabacademy/cryptography/rsa-oracle/) | cryptography | — | medium | `rsa`, `malleability`, `chosen-ciphertext`, `python`, `openssl` |
 | [New Ceasar](writeups/cylabacademy/cryptography/new-ceasar/) | cryptography | — | medium | `python`, `ciphers`, `caesar`, `brute-force`, `encoding` |
 | [ping-cmd](writeups/cylabacademy/general-skills/ping-cmd/) | general-skills | — | easy | `command-injection`, `netcat`, `shell-metacharacters` |
