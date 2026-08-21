@@ -41,17 +41,13 @@ def encrypt_and_leak(plaintext):
 
 ## TL;DR
 
-There is no diffusion: byte `i` of the plaintext only ever meets byte `i` of the
-key, so the 16 bytes are 16 independent 8-bit problems. Find a plaintext that
-leaks `0`, then vary one byte through all 256 values. The leak count is now
-exactly `Sbox[v ^ k] & 1` for that position, and the 256-bit response pattern is
-unique to `k`.
+Basically to break the key, we can first find a input which is the ’template’ which produces 0 leaks, then iterate -> connect to the service -> change one byte of the template iteratively -> collect the results of 1’s and 0’s into a list -> the compare this list/pattern to a collection patterns to find the one that matches -> solve that byte, then repeat for the other bytes
 
 ## Approach
 
 ### 1. Talk to the service with pwntools
 
-Connect, wait for the prompt, send hex, parse the number back out.
+I started with pwntools which before this i hadn’t used before so I had to learn. Luckily it’s very simple, connect -> read -> send the payload -> read the output and filter it to get number of leaks
 
 ```python
 connection = remote("saturn.picoctf.net", port)
@@ -66,7 +62,9 @@ The leak sums all 16 positions, so a varying byte is buried in noise from the
 other 15 — unless they all contribute 0. Since each contributes 0 or 1, a total
 of 0 means every position is silent.
 
-Found by hill-climbing one byte at a time: change a byte, and if the count went
+This same problem could have been solved in many ways, but I decided to do it manually because I started to get tired of coding, and wished to do some manual labor.
+
+Change a byte, and if the count went
 *up*, keep the old value; if it went *down*, keep the new one.
 
 ```
