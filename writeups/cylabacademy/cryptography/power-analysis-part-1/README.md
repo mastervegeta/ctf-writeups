@@ -1,5 +1,5 @@
 ---
-title: "Power Analysis: Part 1"
+title: "PowerAnalysis: Part 1"
 event: cylabacademy
 category: cryptography
 points:
@@ -9,7 +9,7 @@ tags: [side-channel, aes, cpa, dpa, scared, pwntools, numpy, python]
 status: published
 ---
 
-# Power Analysis: Part 1
+# PowerAnalysis: Part 1
 
 > **Event:** cylabacademy · **Category:** cryptography
 
