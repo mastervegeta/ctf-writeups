@@ -102,13 +102,9 @@ service's traces are already aligned and cheap.
 <details>
 <summary>What didn't work here</summary>
 
-**Tried:** `pip install scared` into the venv on this machine (Intel macOS 26,
-CPython 3.12).
+**Tried:** `pip install scared` into the webshell at cylabacademy, to speed up the netcat connections
 
-**Why it failed:** scared pulls in numba, and numba/llvmlite stopped shipping
-macOS x86_64 wheels after 0.61.x, so pip tries to compile llvmlite from source
-and dies in `ffi/build.py`. `pip install "numba<0.62" scared` gets a prebuilt
-wheel — which in turn caps numpy at 2.2.x.
+**Why it failed:** there was not enough space on the webshell disk, so I had to use the slower connection from a local device
 
 </details>
 
