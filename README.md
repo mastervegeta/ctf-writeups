@@ -16,7 +16,7 @@ My profile(s): https://learn.cylabacademy.org/users/xxtentacion
 
 <!-- INDEX:START -->
 
-**24 writeups** across 1 event.
+**26 writeups** across 2 events.
 
 ### CyLab Academy
 
@@ -46,6 +46,13 @@ My profile(s): https://learn.cylabacademy.org/users/xxtentacion
 | [Timeline 1](writeups/cylabacademy/forensics/timeline-1/) | forensics | — | medium | `sleuthkit`, `mactime`, `timeline`, `disk-image`, `base64` |
 | [Timeline 0](writeups/cylabacademy/forensics/timeline-0/) | forensics | — | medium | `sleuthkit`, `mactime`, `timeline`, `timestomping`, `base64`, `disk-image` |
 | [Rogue Tower](writeups/cylabacademy/forensics/rogue-tower/) | forensics | — | medium | `wireshark`, `pcap`, `xor`, `known-plaintext`, `base64`, `imsi`, `python` |
+
+### picoCTF
+
+| Challenge | Category | Points | Difficulty | Tags |
+| --- | --- | --- | --- | --- |
+| [vault-door-8](writeups/picoctf/reverse-engineering/vault-door-8/) | reverse-engineering | 450 | hard | `java`, `bit-manipulation`, `involution`, `permutation`, `char-vs-byte` |
+| [vault-door-7](writeups/picoctf/reverse-engineering/vault-door-7/) | reverse-engineering | 400 | hard | `java`, `bit-shifting`, `endianness`, `ascii`, `packing` |
 
 <!-- INDEX:END -->
 
