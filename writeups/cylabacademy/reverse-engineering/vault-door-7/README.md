@@ -1,8 +1,8 @@
 ---
 title: vault-door-7
-event: picoctf
+event: cylabacademy
 category: reverse-engineering
-points: 400
+points:
 difficulty: hard
 date: 2026-09-01
 tags: [java, bit-shifting, endianness, ascii, packing]
@@ -11,7 +11,7 @@ status: published
 
 # vault-door-7
 
-> **Event:** picoctf · **Category:** reverse-engineering
+> **Event:** cylabacademy · **Category:** reverse-engineering
 
 ## Challenge
 
@@ -21,6 +21,9 @@ status: published
 > Source: [`VaultDoor7.java`](files/VaultDoor7.java)
 
 Recover the 32-character password that makes `checkPassword` return true.
+
+Originally picoCTF 2019, reverse engineering, 400 points — hence the `picoCTF{}`
+flag format.
 
 ## TL;DR
 

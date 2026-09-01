@@ -1,8 +1,8 @@
 ---
 title: vault-door-8
-event: picoctf
+event: cylabacademy
 category: reverse-engineering
-points: 450
+points:
 difficulty: hard
 date: 2026-09-01
 tags: [java, bit-manipulation, involution, permutation, char-vs-byte]
@@ -11,7 +11,7 @@ status: published
 
 # vault-door-8
 
-> **Event:** picoctf · **Category:** reverse-engineering
+> **Event:** cylabacademy · **Category:** reverse-engineering
 
 ## Challenge
 
@@ -22,6 +22,9 @@ status: published
 
 `scramble()` transposes pairs of bits in each character and the result is
 compared against a hardcoded array. Recover the input.
+
+Originally picoCTF 2019, reverse engineering, 450 points — hence the `picoCTF{}`
+flag format.
 
 ## TL;DR
 
