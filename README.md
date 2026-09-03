@@ -16,7 +16,7 @@ My profile(s): https://learn.cylabacademy.org/users/xxtentacion
 
 <!-- INDEX:START -->
 
-**28 writeups** across 1 event.
+**31 writeups** across 1 event.
 
 ### CyLab Academy
 
@@ -24,6 +24,9 @@ My profile(s): https://learn.cylabacademy.org/users/xxtentacion
 | --- | --- | --- | --- | --- |
 | [m00nwalk2](writeups/cylabacademy/forensics/m00nwalk2/) | forensics | — | hard | `sstv`, `steganography`, `steghide`, `audio`, `wav` |
 | [m00nwalk](writeups/cylabacademy/forensics/m00nwalk/) | forensics | — | medium | `sstv`, `audio`, `ham-radio`, `gimp`, `steganography` |
+| [Ready Gladiator 2](writeups/cylabacademy/reverse-engineering/ready-gladiator-2/) | reverse-engineering | — | medium | `corewars`, `redcode`, `assembly`, `imp-gate`, `addressing-modes` |
+| [Ready Gladiator 1](writeups/cylabacademy/reverse-engineering/ready-gladiator-1/) | reverse-engineering | — | medium | `corewars`, `redcode`, `assembly`, `dwarf`, `bomber` |
+| [Ready Gladiator 0](writeups/cylabacademy/reverse-engineering/ready-gladiator-0/) | reverse-engineering | — | medium | `corewars`, `redcode`, `assembly`, `mars`, `pmars` |
 | [vault-door-8](writeups/cylabacademy/reverse-engineering/vault-door-8/) | reverse-engineering | — | hard | `java`, `bit-manipulation`, `involution`, `permutation`, `char-vs-byte` |
 | [vault-door-7](writeups/cylabacademy/reverse-engineering/vault-door-7/) | reverse-engineering | — | hard | `java`, `bit-shifting`, `endianness`, `ascii`, `packing` |
 | [PowerAnalysis: Part 2](writeups/cylabacademy/cryptography/power-analysis-part-2/) | cryptography | — | hard | `side-channel`, `aes`, `cpa`, `dpa`, `scared`, `numpy`, `python` |
