@@ -16,12 +16,14 @@ My profile(s): https://learn.cylabacademy.org/users/xxtentacion
 
 <!-- INDEX:START -->
 
-**26 writeups** across 1 event.
+**28 writeups** across 1 event.
 
 ### CyLab Academy
 
 | Challenge | Category | Points | Difficulty | Tags |
 | --- | --- | --- | --- | --- |
+| [m00nwalk2](writeups/cylabacademy/forensics/m00nwalk2/) | forensics | — | hard | `sstv`, `steganography`, `steghide`, `audio`, `wav` |
+| [m00nwalk](writeups/cylabacademy/forensics/m00nwalk/) | forensics | — | medium | `sstv`, `audio`, `ham-radio`, `gimp`, `steganography` |
 | [vault-door-8](writeups/cylabacademy/reverse-engineering/vault-door-8/) | reverse-engineering | — | hard | `java`, `bit-manipulation`, `involution`, `permutation`, `char-vs-byte` |
 | [vault-door-7](writeups/cylabacademy/reverse-engineering/vault-door-7/) | reverse-engineering | — | hard | `java`, `bit-shifting`, `endianness`, `ascii`, `packing` |
 | [PowerAnalysis: Part 2](writeups/cylabacademy/cryptography/power-analysis-part-2/) | cryptography | — | hard | `side-channel`, `aes`, `cpa`, `dpa`, `scared`, `numpy`, `python` |
