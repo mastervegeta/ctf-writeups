@@ -50,6 +50,7 @@ EVENT_DISPLAY = {
     "picoctf": "picoCTF",
     "cylabacademy": "CyLab Academy",
     "cylab-africa": "CyLab-Africa",
+    "portswiggeracademy": "PortSwigger Academy",
 }
 
 

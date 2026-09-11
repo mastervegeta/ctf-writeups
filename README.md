@@ -16,7 +16,7 @@ My profile(s): https://learn.cylabacademy.org/users/xxtentacion
 
 <!-- INDEX:START -->
 
-**31 writeups** across 1 event.
+**32 writeups** across 2 events.
 
 ### CyLab Academy
 
@@ -53,6 +53,12 @@ My profile(s): https://learn.cylabacademy.org/users/xxtentacion
 | [Timeline 1](writeups/cylabacademy/forensics/timeline-1/) | forensics | — | medium | `sleuthkit`, `mactime`, `timeline`, `disk-image`, `base64` |
 | [Timeline 0](writeups/cylabacademy/forensics/timeline-0/) | forensics | — | medium | `sleuthkit`, `mactime`, `timeline`, `timestomping`, `base64`, `disk-image` |
 | [Rogue Tower](writeups/cylabacademy/forensics/rogue-tower/) | forensics | — | medium | `wireshark`, `pcap`, `xor`, `known-plaintext`, `base64`, `imsi`, `python` |
+
+### PortSwigger Academy
+
+| Challenge | Category | Points | Difficulty | Tags |
+| --- | --- | --- | --- | --- |
+| [Bypassing GraphQL brute force protections](writeups/portswiggeracademy/graphql-api/bypassing-graphql-brute-force-protections/) | graphql-api | — | practitioner | `graphql`, `aliases`, `brute-force`, `rate-limiting`, `python`, `burp` |
 
 <!-- INDEX:END -->
 
