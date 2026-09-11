@@ -54,7 +54,7 @@ My profile(s): https://learn.cylabacademy.org/users/xxtentacion
 | [Timeline 0](writeups/cylabacademy/forensics/timeline-0/) | forensics | — | medium | `sleuthkit`, `mactime`, `timeline`, `timestomping`, `base64`, `disk-image` |
 | [Rogue Tower](writeups/cylabacademy/forensics/rogue-tower/) | forensics | — | medium | `wireshark`, `pcap`, `xor`, `known-plaintext`, `base64`, `imsi`, `python` |
 
-### PortSwigger Academy
+### PortSwigger Web Security Academy
 
 | Challenge | Category | Points | Difficulty | Tags |
 | --- | --- | --- | --- | --- |
