@@ -16,7 +16,7 @@ My profile(s): https://learn.cylabacademy.org/users/xxtentacion
 
 <!-- INDEX:START -->
 
-**32 writeups** across 2 events.
+**33 writeups** across 2 events.
 
 ### CyLab Academy
 
@@ -58,6 +58,7 @@ My profile(s): https://learn.cylabacademy.org/users/xxtentacion
 
 | Challenge | Category | Points | Difficulty | Tags |
 | --- | --- | --- | --- | --- |
+| [Performing CSRF exploits over GraphQL](writeups/portswiggeracademy/graphql-api/performing-csrf-exploits-over-graphql/) | graphql-api | — | practitioner | `graphql`, `csrf`, `content-type`, `exploit-server`, `burp` |
 | [Bypassing GraphQL brute force protections](writeups/portswiggeracademy/graphql-api/bypassing-graphql-brute-force-protections/) | graphql-api | — | practitioner | `graphql`, `aliases`, `brute-force`, `rate-limiting`, `python`, `burp` |
 
 <!-- INDEX:END -->
