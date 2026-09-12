@@ -16,7 +16,7 @@ My profile(s): https://learn.cylabacademy.org/users/xxtentacion
 
 <!-- INDEX:START -->
 
-**39 writeups** across 2 events.
+**40 writeups** across 2 events.
 
 ### CyLab Academy
 
@@ -58,6 +58,7 @@ My profile(s): https://learn.cylabacademy.org/users/xxtentacion
 
 | Challenge | Category | Points | Difficulty | Tags |
 | --- | --- | --- | --- | --- |
+| [Stored XSS into onclick event with angle brackets and double quotes HTML-encoded and single quotes and backslash escaped](writeups/portswiggeracademy/xss/stored-xss-into-onclick-event-with-angle-brackets-and-double-quotes-html-encoded-and-single-quotes-and-backslash-escaped/) | xss | — | practitioner | `xss`, `stored`, `onclick`, `html-entities`, `javascript-context` |
 | [Reflected XSS with some SVG markup allowed](writeups/portswiggeracademy/xss/reflected-xss-with-some-svg-markup-allowed/) | xss | — | practitioner | `xss`, `svg`, `reflected`, `waf`, `intruder`, `burp` |
 | [Reflected XSS into a JavaScript string with single quote and backslash escaped](writeups/portswiggeracademy/xss/reflected-xss-into-a-javascript-string-with-single-quote-and-backslash-escaped/) | xss | — | practitioner | `xss`, `reflected`, `javascript-context`, `script-breakout` |
 | [Reflected XSS into a JavaScript string with angle brackets and double quotes HTML-encoded and single quotes escaped](writeups/portswiggeracademy/xss/reflected-xss-into-a-javascript-string-with-angle-brackets-and-double-quotes-html-encoded-and-single-quotes-escaped/) | xss | — | practitioner | `xss`, `reflected`, `javascript-context`, `backslash`, `string-breakout` |
