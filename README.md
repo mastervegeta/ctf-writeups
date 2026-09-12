@@ -16,7 +16,7 @@ My profile(s): https://learn.cylabacademy.org/users/xxtentacion
 
 <!-- INDEX:START -->
 
-**41 writeups** across 2 events.
+**42 writeups** across 2 events.
 
 ### CyLab Academy
 
@@ -64,6 +64,7 @@ My profile(s): https://learn.cylabacademy.org/users/xxtentacion
 | [Reflected XSS into a JavaScript string with single quote and backslash escaped](writeups/portswiggeracademy/xss/reflected-xss-into-a-javascript-string-with-single-quote-and-backslash-escaped/) | xss | — | practitioner | `xss`, `reflected`, `javascript-context`, `script-breakout` |
 | [Reflected XSS into a JavaScript string with angle brackets and double quotes HTML-encoded and single quotes escaped](writeups/portswiggeracademy/xss/reflected-xss-into-a-javascript-string-with-angle-brackets-and-double-quotes-html-encoded-and-single-quotes-escaped/) | xss | — | practitioner | `xss`, `reflected`, `javascript-context`, `backslash`, `string-breakout` |
 | [Reflected XSS in canonical link tag](writeups/portswiggeracademy/xss/reflected-xss-in-canonical-link-tag/) | xss | — | practitioner | `xss`, `reflected`, `canonical-link`, `accesskey`, `chrome` |
+| [Exploiting XSS to bypass CSRF defenses](writeups/portswiggeracademy/xss/exploiting-xss-to-bypass-csrf-defenses/) | xss | — | practitioner | `xss`, `stored`, `csrf`, `fetch`, `token-theft` |
 | [Reflected XSS into HTML context with most tags and attributes blocked](writeups/portswiggeracademy/xss/reflected-xss-into-html-context-with-most-tags-and-attributes-blocked/) | xss | — | practitioner | `xss`, `waf`, `reflected`, `iframe`, `onresize`, `intruder`, `burp` |
 | [Performing CSRF exploits over GraphQL](writeups/portswiggeracademy/graphql-api/performing-csrf-exploits-over-graphql/) | graphql-api | — | practitioner | `graphql`, `csrf`, `content-type`, `exploit-server`, `burp` |
 | [Manipulating WebSocket messages to exploit vulnerabilities](writeups/portswiggeracademy/websockets/manipulating-websocket-messages-to-exploit-vulnerabilities/) | websockets | — | apprentice | `websockets`, `xss`, `burp`, `chat` |
