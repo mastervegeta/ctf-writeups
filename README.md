@@ -16,7 +16,7 @@ My profile(s): https://learn.cylabacademy.org/users/xxtentacion
 
 <!-- INDEX:START -->
 
-**37 writeups** across 2 events.
+**38 writeups** across 2 events.
 
 ### CyLab Academy
 
@@ -59,6 +59,7 @@ My profile(s): https://learn.cylabacademy.org/users/xxtentacion
 | Challenge | Category | Points | Difficulty | Tags |
 | --- | --- | --- | --- | --- |
 | [Reflected XSS with some SVG markup allowed](writeups/portswiggeracademy/xss/reflected-xss-with-some-svg-markup-allowed/) | xss | — | practitioner | `xss`, `svg`, `reflected`, `waf`, `intruder`, `burp` |
+| [Reflected XSS into a JavaScript string with single quote and backslash escaped](writeups/portswiggeracademy/xss/reflected-xss-into-a-javascript-string-with-single-quote-and-backslash-escaped/) | xss | — | practitioner | `xss`, `reflected`, `javascript-context`, `script-breakout` |
 | [Reflected XSS in canonical link tag](writeups/portswiggeracademy/xss/reflected-xss-in-canonical-link-tag/) | xss | — | practitioner | `xss`, `reflected`, `canonical-link`, `accesskey`, `chrome` |
 | [Reflected XSS into HTML context with most tags and attributes blocked](writeups/portswiggeracademy/xss/reflected-xss-into-html-context-with-most-tags-and-attributes-blocked/) | xss | — | practitioner | `xss`, `waf`, `reflected`, `iframe`, `onresize`, `intruder`, `burp` |
 | [Performing CSRF exploits over GraphQL](writeups/portswiggeracademy/graphql-api/performing-csrf-exploits-over-graphql/) | graphql-api | — | practitioner | `graphql`, `csrf`, `content-type`, `exploit-server`, `burp` |
