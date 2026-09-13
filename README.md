@@ -16,7 +16,7 @@ My profile(s): https://learn.cylabacademy.org/users/xxtentacion
 
 <!-- INDEX:START -->
 
-**42 writeups** across 2 events.
+**43 writeups** across 2 events.
 
 ### CyLab Academy
 
@@ -58,6 +58,7 @@ My profile(s): https://learn.cylabacademy.org/users/xxtentacion
 
 | Challenge | Category | Points | Difficulty | Tags |
 | --- | --- | --- | --- | --- |
+| [Reflected XSS with AngularJS sandbox escape without strings](writeups/portswiggeracademy/xss/reflected-xss-with-angularjs-sandbox-escape-without-strings/) | xss | — | expert | `xss`, `angularjs`, `sandbox-escape`, `csti`, `fromcharcode` |
 | [Stored XSS into onclick event with angle brackets and double quotes HTML-encoded and single quotes and backslash escaped](writeups/portswiggeracademy/xss/stored-xss-into-onclick-event-with-angle-brackets-and-double-quotes-html-encoded-and-single-quotes-and-backslash-escaped/) | xss | — | practitioner | `xss`, `stored`, `onclick`, `html-entities`, `javascript-context` |
 | [Reflected XSS with some SVG markup allowed](writeups/portswiggeracademy/xss/reflected-xss-with-some-svg-markup-allowed/) | xss | — | practitioner | `xss`, `svg`, `reflected`, `waf`, `intruder`, `burp` |
 | [Reflected XSS into a template literal with angle brackets, single, double quotes, backslash and backticks Unicode-escaped](writeups/portswiggeracademy/xss/reflected-xss-into-a-template-literal-with-angle-brackets-single-double-quotes-backslash-and-backticks-unicode-escaped/) | xss | — | practitioner | `xss`, `reflected`, `template-literal`, `javascript-context` |
